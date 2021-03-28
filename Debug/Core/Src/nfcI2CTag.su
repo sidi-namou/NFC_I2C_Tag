@@ -1,0 +1,5 @@
+nfcI2CTag.c:14:6:write_To_NFC	48	static
+nfcI2CTag.c:30:6:read_From_NFC	32	static
+nfcI2CTag.c:48:6:change_Slave_Address_To_Recommended_address	24	static
+nfcI2CTag.c:87:6:change_PWD	24	static
+nfcI2CTag.c:119:6:autentification_Area	32	static
